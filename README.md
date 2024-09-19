@@ -1,4 +1,4 @@
-# Business-Insights-360---Power-BI-Dashboard
+# Business-Insights-360---Power-BI-Dashboard - https://lnkd.in/gtjVAc48 
 
 “Business Insights 360” powered by Power BI is a comprehensive dashboard designed to provide AtliQ Hardware with actionable insights across Finance, Sales, Marketing, and Supply Chain.
 
